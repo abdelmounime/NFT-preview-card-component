@@ -20,7 +20,8 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin: 1rem;
+  margin: 0;
+  padding: 1rem;
   height: calc(100vh - 1px);
 }
 /* End Body */
